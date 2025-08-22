@@ -6,7 +6,7 @@ terraform {
     }
   }
 }
-
+#fg
 # This is the placeholder for each person's unique name.
 # We will provide a value for it when we run `terraform apply`.
 variable "student_identifier" {
