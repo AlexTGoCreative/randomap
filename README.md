@@ -11,6 +11,10 @@ This guide assumes you are using WSL (Windows Subsystem for Linux) and the Ubunt
 First, install WSL and the necessary tools inside your Ubuntu terminal.
 1.  **Install WSL:** Follow the official Microsoft guide to [install WSL](https://learn.microsoft.com/en-us/windows/wsl/install).
 2.  **Update Ubuntu:**
+
+
+
+
     ```
     sudo apt-get update && sudo apt-get upgrade -y
     ```
