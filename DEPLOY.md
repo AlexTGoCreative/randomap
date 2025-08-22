@@ -176,3 +176,9 @@ To avoid any potential costs, destroy all the infrastructure you created.
 2.  **Delete the ECR Repository:** Terraform cannot delete a repository that contains images.
     * Go to the **AWS Console** > **Elastic Container Registry (ECR)**.
     * Find your repository (`randomap-repo-...`), select it, and click **Delete**, following the instructions to force deletion.
+
+
+
+
+
+    terraform apply -var="student_identifier=student-alexandru" # Use the same identifier as your secret
