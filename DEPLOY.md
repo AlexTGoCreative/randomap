@@ -182,4 +182,8 @@ To avoid any potential costs, destroy all the infrastructure you created.
 
 
 
+
+
+
+
     terraform apply -var="student_identifier=student-alexandru" # Use the same identifier as your secret
